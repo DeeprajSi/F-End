@@ -1,0 +1,1 @@
+You have not yet committed anything to the repository, only initialized one. From the documentation, linked below, init creates an empty repository, and does no population. Some services (github/lab, etc) will initialize the repository with a readme file or similar, which must be committed to be tracked. Manually running init does not do this.
